@@ -6,8 +6,11 @@ I am assuming you already have a Python installation on your machine. If not, pl
 The Requests and Beautiful Soup libraries don't come with Python. You will have to install them separately. For this, you can use the pip package manager which is included by default with Python installation since Python 3.4.
 
 You can use pip to install the Requests and Beautiful Soup libraries using the following commands:
+
 `pip install requests`
+
 `pip install beautifulsoup4`
+
 If they were successfully installed, now you are ready to start building your Scraper.
 
 ## Steps used here
