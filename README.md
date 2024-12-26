@@ -9,9 +9,7 @@ You can use pip to install the Requests and Beautiful Soup libraries using the f
 
 ```
 pip install regex
-
 pip install requests
-
 pip install pdfkit
 
 ```
